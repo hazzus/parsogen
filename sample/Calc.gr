@@ -1,0 +1,55 @@
+{
+package calc
+}
+
+@tokens [
+
+WS = "[ \t]+";
+NL = "[\n\r]+";
+NUM = "[1-9][0-9]*";
+ADD = "\\+";
+SUB = "-";
+MUL = "\\*";
+DIV = "/";
+LBR = "\\(";
+RBR = "\\)";
+
+]
+
+@skip [WS; NL]
+
+@rules [
+
+S(): Int
+    = T() X({$1}) { return $2 }
+    ;
+
+X(acc: Int): Int
+    = ADD T() X({acc + $2}) { return $3 }
+    | SUB T() X({acc - $2}) { return $3 }
+    | $ { return acc }
+    ;
+
+T(): Int
+    = F() Y({$1}) { return $2 }
+    ;
+
+Y(acc: Int): Int
+    = MUL F() Y({acc * $2}) { return $3 }
+    | $ { return acc }
+    ;
+
+F(): Int
+    = NUM { return $1.toInt() }
+    | SUB A() { return -$2 }
+    | LBR S() RBR { return $2 }
+    ;
+
+A(): Int
+    = NUM { return $1.toInt() }
+    | LBR S() RBR { return $2 }
+    ;
+
+]
+
+@start = S;

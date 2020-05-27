@@ -1,0 +1,50 @@
+{
+package pascalLogic
+}
+
+@tokens [
+
+WS = "[ \t]+";
+NL = "[\n\r]+";
+AND = "and";
+OR = "or";
+XOR = "xor";
+NOT = "not";
+LBR = "\\(";
+RBR = "\\)";
+VAR = "[a-zA-Z][a-zA-Z0-9_]*";
+
+]
+
+@skip [WS; NL]
+
+@rules [
+
+S() : Node
+    = T() X({$1}) { return $2 }
+    ;
+
+X(left: Node): Node
+    = OR T() X({OrNode(left, $2)}) { return $3 }
+    | XOR T() X({XorNode(left, $2)}) { return $3 }
+    | $ { return left }
+    ;
+
+T(): Node
+    = F() Y({$1}) { return $2 }
+    ;
+
+Y(left: Node): Node
+    = AND F() Y({AndNode(left, $2)}) { return $3 }
+    | $ { return left }
+    ;
+
+F(): Node
+    = NOT F() { return NotNode($2) }
+    | VAR { return VarNode($1) }
+    | LBR F() RBR { return $2 }
+    ;
+
+]
+
+@start = S;

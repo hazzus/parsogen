@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29f2b705-6d7c-49da-bc35-dc27af46e37c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WLDyTDAPpsWUfiqGUnmiZpQg0D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/shit/parser-generator" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Kotlin.generated.CalcKt">
+    <configuration name="CalcKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="parsogen" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="sample/Calc.gr src/generated/calc" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CalcKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <envs>
+        <env name="CLASSPATH" value="&quot;.:/usr/local/lib/antlr-4.7.2-complete.jar:$CLASSPATH&quot;" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="parsogen" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="sample/Calc.gr src/generated/calc" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated.CalcKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="parsogen" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="generated.CalcKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="parsogen" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="generated.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.generated.MainKt" />
+      <item itemvalue="Kotlin.CalcKt" />
+      <item itemvalue="Kotlin.generated.CalcKt" />
+      <item itemvalue="Kotlin.MainKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.generated.CalcKt" />
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.CalcKt" />
+        <item itemvalue="Kotlin.generated.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29f2b705-6d7c-49da-bc35-dc27af46e37c" name="Default Changelist" comment="" />
+      <created>1578920235677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578920235677</updated>
+      <workItem from="1578920238824" duration="1946000" />
+      <workItem from="1578922197706" duration="28687000" />
+      <workItem from="1579034180049" duration="65736000" />
+      <workItem from="1579210497477" duration="27759000" />
+      <workItem from="1579289550001" duration="2825000" />
+      <workItem from="1579335586922" duration="85000" />
+      <workItem from="1579335687290" duration="2667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.g4" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="196" width="800" height="685" key="#Plugins" timestamp="1578922185550">
+      <screen x="67" y="0" width="1853" height="2160" />
+    </state>
+    <state x="558" y="196" width="800" height="685" key="#Plugins/67.0.1853.2160@67.0.1853.2160" timestamp="1578922185550" />
+    <state x="591" y="209" width="852" height="685" key="#Project_Structure" timestamp="1578920247935">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="591" y="209" width="852" height="685" key="#Project_Structure/67.27.1853.1052@67.27.1853.1052" timestamp="1578920247935" />
+    <state x="455" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579337833061">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="455" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1579289876211" />
+    <state x="455" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1920.1080/67.27.1853.1052@67.27.1853.1052" timestamp="1579033773578" />
+    <state x="455" y="262" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.0.1853.2160@67.0.1853.2160" timestamp="1579102786685" />
+    <state x="455" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1579337833061" />
+    <state x="698" y="266" width="591" height="814" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578922157434">
+      <screen x="67" y="0" width="1853" height="2160" />
+    </state>
+    <state x="698" y="266" width="591" height="814" key="#com.intellij.fileTypes.FileTypeChooser/67.0.1853.2160@67.0.1853.2160" timestamp="1578922157434" />
+    <state x="698" y="345" width="586" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1052@67.27.1853.1052" timestamp="1578920547594" />
+    <state x="777" y="1099" width="424" height="492" key="FileChooserDialogImpl" timestamp="1579209697714">
+      <screen x="67" y="0" width="1853" height="2160" />
+    </state>
+    <state x="777" y="309" width="424" height="492" key="FileChooserDialogImpl/0.1080.1920.1080/67.27.1853.1052@67.27.1853.1052" timestamp="1578995936718" />
+    <state x="777" y="1099" width="424" height="492" key="FileChooserDialogImpl/67.0.1853.2160@67.0.1853.2160" timestamp="1579209697714" />
+    <state width="1807" height="277" key="GridCell.Tab.0.bottom" timestamp="1579339268402">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1579292942314" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/0.1080.1920.1080/67.27.1853.1052@67.27.1853.1052" timestamp="1579033777522" />
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom/67.0.1853.2160@67.0.1853.2160" timestamp="1579210460525" />
+    <state width="1807" height="277" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1579339268402" />
+    <state width="1807" height="277" key="GridCell.Tab.0.center" timestamp="1579339268401">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.center/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1579292942314" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center/0.1080.1920.1080/67.27.1853.1052@67.27.1853.1052" timestamp="1579033777522" />
+    <state width="1874" height="287" key="GridCell.Tab.0.center/67.0.1853.2160@67.0.1853.2160" timestamp="1579210460523" />
+    <state width="1807" height="277" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1579339268401" />
+    <state width="1807" height="277" key="GridCell.Tab.0.left" timestamp="1579339268400">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.left/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1579292942314" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left/0.1080.1920.1080/67.27.1853.1052@67.27.1853.1052" timestamp="1579033777522" />
+    <state width="1874" height="287" key="GridCell.Tab.0.left/67.0.1853.2160@67.0.1853.2160" timestamp="1579210460522" />
+    <state width="1807" height="277" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1579339268400" />
+    <state width="1807" height="277" key="GridCell.Tab.0.right" timestamp="1579339268401">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.right/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1579292942314" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/0.1080.1920.1080/67.27.1853.1052@67.27.1853.1052" timestamp="1579033777522" />
+    <state width="1874" height="287" key="GridCell.Tab.0.right/67.0.1853.2160@67.0.1853.2160" timestamp="1579210460524" />
+    <state width="1807" height="277" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1579339268401" />
+    <state width="1807" height="277" key="GridCell.Tab.1.bottom" timestamp="1579339268407">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.1.bottom/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1579239224000" />
+    <state width="1874" height="287" key="GridCell.Tab.1.bottom/67.0.1853.2160@67.0.1853.2160" timestamp="1579210460528" />
+    <state width="1807" height="277" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1579339268407" />
+    <state width="1807" height="277" key="GridCell.Tab.1.center" timestamp="1579339268405">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.1.center/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1579239224000" />
+    <state width="1874" height="287" key="GridCell.Tab.1.center/67.0.1853.2160@67.0.1853.2160" timestamp="1579210460527" />
+    <state width="1807" height="277" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1579339268405" />
+    <state width="1807" height="277" key="GridCell.Tab.1.left" timestamp="1579339268404">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.1.left/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1579239224000" />
+    <state width="1874" height="287" key="GridCell.Tab.1.left/67.0.1853.2160@67.0.1853.2160" timestamp="1579210460526" />
+    <state width="1807" height="277" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1579339268404" />
+    <state width="1807" height="277" key="GridCell.Tab.1.right" timestamp="1579339268406">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.1.right/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1579239224000" />
+    <state width="1874" height="287" key="GridCell.Tab.1.right/67.0.1853.2160@67.0.1853.2160" timestamp="1579210460527" />
+    <state width="1807" height="277" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1579339268406" />
+    <state x="479" y="125" width="1024" height="853" key="SettingsEditor" timestamp="1578995942824">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="479" y="125" width="1024" height="853" key="SettingsEditor/0.1080.1920.1080/67.27.1853.1052@67.27.1853.1052" timestamp="1578995942824" />
+    <state x="620" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1579335688199">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="620" y="348" key="com.intellij.ide.util.TipDialog/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1579289573845" />
+    <state x="620" y="358" key="com.intellij.ide.util.TipDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1579335688199" />
+    <state x="559" y="96" width="869" height="903" key="find.popup" timestamp="1579335763249">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="559" y="96" width="869" height="903" key="find.popup/67.27.1853.1052@67.27.1853.1052" timestamp="1579335763249" />
+    <state x="624" y="242" key="run.anything.popup" timestamp="1579230423583">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="624" y="242" key="run.anything.popup/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1579230423583" />
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1579182487857">
+      <screen x="67" y="0" width="1853" height="2160" />
+    </state>
+    <state x="623" y="140" width="672" height="331" key="search.everywhere.popup/0.1080.1920.1080/67.27.1853.1052@67.27.1853.1052" timestamp="1578987831094" />
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup/67.0.1853.2160@67.0.1853.2160" timestamp="1579182487857" />
+    <state x="623" y="140" width="672" height="331" key="search.everywhere.popup/67.27.1853.1052@67.27.1853.1052" timestamp="1579086857427" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/generators/ParserGenerator.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/grammar/Grammar.kt</url>
+          <line>116</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="((RuleBodyContext)_localctx).code.getText()" language="JAVA" />
+        <watch expression="valMatcher.replaceAll(&quot;&quot;)" language="kotlin" />
+        <watch expression="follow[rule.name]" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
